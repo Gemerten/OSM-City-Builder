@@ -35,6 +35,12 @@ It is aimed at indie developers who want a fast way to prototype city scenes wit
 - This is an early open-source release, so some object types may still be simplified.
 - Large areas can take time to generate and may create many objects.
 
+## OpenStreetMap Attribution
+
+This project uses OpenStreetMap data.
+
+OpenStreetMap data © OpenStreetMap contributors and is available under the Open Database License (ODbL).
+
 ## Roadmap
 
 - Better road meshes
